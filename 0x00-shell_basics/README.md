@@ -7,3 +7,4 @@ ls -al displays current directory contents with ID and hidden files
 mkdir /tmp/my_first_directory create that file
 mkdir /tmp/my_first_directory create that directory
 mv moves file
+rm is to remove file
