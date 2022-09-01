@@ -11,3 +11,4 @@ rm is to remove file
 rmdir is to remove directory
 cd .. is to move one step back
 cd - is to move one step back
+la -la . .. /boot to list all
