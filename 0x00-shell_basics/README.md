@@ -9,3 +9,4 @@ mkdir /tmp/my_first_directory create that directory
 mv moves file
 rm is to remove file
 rmdir is to remove directory
+cd .. is to move one step back
