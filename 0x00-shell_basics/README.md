@@ -23,3 +23,4 @@ directory creating script oh
 list all files and directory
 Is this how to justify privilege
 !:mine School im so tire of this
+!:mine School im so tire of this
