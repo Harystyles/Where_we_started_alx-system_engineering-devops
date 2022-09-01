@@ -16,3 +16,4 @@ ls -la . .. /boot to list all
 file is to print file
 ln -s for symbolic link
 ln -s for symbolic link
+cp is to copy
