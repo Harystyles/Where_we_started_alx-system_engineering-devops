@@ -14,3 +14,4 @@ cd - is to move one step back
 la -la . .. /boot to list all
 ls -la . .. /boot to list all
 file is to print file
+ln -s for symbolic link
