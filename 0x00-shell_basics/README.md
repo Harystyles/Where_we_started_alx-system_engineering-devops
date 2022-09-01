@@ -21,3 +21,5 @@ mv to move
 rm *~ to delete all files that start wit *
 directory creating script oh
 list all files and directory
+Is this how to justify privilege
+!:mine School im so tire of this
