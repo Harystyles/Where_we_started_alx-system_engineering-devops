@@ -4,3 +4,5 @@ cd ~ changes the working directory to the user’s home directory.
 ls -l display current directory contents in a long format.
 ls -la displays the current directory contents, including hidden files (starting with .)
 ls -al displays current directory contents with ID and hidden files
+mkdir /tmp/my_first_directory create that file
+mkdir /tmp/my_first_directory create that directory
