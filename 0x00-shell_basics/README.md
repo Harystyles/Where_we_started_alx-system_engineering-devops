@@ -19,3 +19,4 @@ ln -s for symbolic link
 cp is to copy
 mv to move
 rm *~ to delete all files that start wit *
+directory creating script oh
