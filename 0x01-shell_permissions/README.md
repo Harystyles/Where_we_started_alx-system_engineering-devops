@@ -9,3 +9,4 @@ chmod a+x everybody
 chmod 007 set permission
 chmod 753 set mode permission
 chmod set mode
+sudo chmod for directory permission
