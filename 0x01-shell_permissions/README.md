@@ -5,3 +5,4 @@ sudo chown changes ownership
 touch to create empty file
 chmod changes permission
 chmod +114 multiple permission
+chmod a+x everybody
