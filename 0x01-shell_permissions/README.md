@@ -6,3 +6,4 @@ touch to create empty file
 chmod changes permission
 chmod +114 multiple permission
 chmod a+x everybody
+chmod 007 set permission
