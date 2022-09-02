@@ -13,3 +13,4 @@ sudo chmod for directory permission
 mkdir -m 751 my_dir for more directory permission
 chgrp school hello to change group permission
 chown changing ownership and group permission
+chown -h changing ownership and group permission
