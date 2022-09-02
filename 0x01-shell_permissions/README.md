@@ -15,3 +15,4 @@ chgrp school hello to change group permission
 chown changing ownership and group permission
 chown -h changing ownership and group permission
 chown --from permission
+wtf is this telnet towel.blinkenlights.nl for? omg
