@@ -3,3 +3,4 @@ whoami prints the username of the current user
 groups prints all groups a user is part of
 sudo chown changes ownership
 touch to create empty file
+chmod changes permission
